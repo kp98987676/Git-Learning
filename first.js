@@ -5,5 +5,6 @@ const balance = 300;
 const account = 420;
 
 function greet(name){
-    console.log("Hello")
+    console.log("Hello");
+    
 }
